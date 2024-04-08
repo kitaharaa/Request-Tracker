@@ -1,4 +1,4 @@
-package com.ivanaf.querytracking.ui.theme
+package com.ivanaf.querytracking.common.theme
 
 import android.app.Activity
 import android.os.Build

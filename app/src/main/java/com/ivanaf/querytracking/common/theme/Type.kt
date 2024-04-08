@@ -1,4 +1,4 @@
-package com.ivanaf.querytracking.ui.theme
+package com.ivanaf.querytracking.common.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
